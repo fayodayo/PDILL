@@ -1,0 +1,22 @@
+{
+    "id": 825879,
+    "name": "The Hell Trilogy",
+    "author": "Aciditzen",
+    "creators": [""],
+    "verifier": "sp0nplays",
+    "verification": "https://www.youtube.com/watch?v=1WnJ90gq46M&ab_channel=sp0nplays",
+    "percentToQualify": "65",
+    "password": "-",
+    "records": [
+        {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=N-ZCYkqLYx8&ab_channel=Faye",
+            "percent": 100
+        },
+              {
+            "user": "Wallancey",
+            "link": "https://www.youtube.com/watch?v=Bm_nchAd9hQ&ab_channel=WallaceisAwesome",
+            "percent": 100
+        }
+    ]
+}
