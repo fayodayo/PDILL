@@ -1,0 +1,22 @@
+{
+    "id": 825879,
+    "name": "Metropolis V3",
+    "author": "MythzGMD",
+    "creators": [""],
+    "verifier": "Simon",
+    "verification": "https://www.youtube.com/watch?v=lYX71xEJ18Y&ab_channel=SimonCL",
+    "percentToQualify": "63",
+    "password": "-",
+    "records": [
+        {
+            "user": "qwartzboi",
+            "link": "https://www.youtube.com/watch?v=ZJAFPAs-mzs&ab_channel=Qwartz",
+            "percent": 100
+        },
+              {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=5KeTrdl4Fis&ab_channel=Faye",
+            "percent": 100
+        }
+    ]
+}
