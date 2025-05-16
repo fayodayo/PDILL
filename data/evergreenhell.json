@@ -1,0 +1,22 @@
+{
+    "id": 505768,
+    "name": "Evergreen Hell (fayodayo)",
+    "author": "ATOMIC",
+    "creators": [""],
+    "verifier": "fayodayo",
+    "verification": "https://www.youtube.com/watch?v=fiRlxxkmIt0&ab_channel=Faye",
+    "percentToQualify": "63",
+    "password": "-",
+    "records": [
+        {
+            "user": "Munchie995",
+            "link": "https://www.youtube.com/watch?v=S7qbymyYFfM&ab_channel=Munchie",
+            "percent": 100
+        },
+              {
+            "user": "essie",
+            "link": "https://www.youtube.com/watch?v=yAjrzDZ3tX0&ab_channel=Essie",
+            "percent": 100
+        }
+    ]
+}
