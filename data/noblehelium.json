@@ -1,0 +1,32 @@
+{
+    "id": 782583,
+    "name": "Noble Helium",
+    "author": "uslovesroblox",
+    "creators": [""],
+    "verifier": "sp0nplays",
+    "verification": "https://www.youtube.com/watch?v=rkQcxM6M3vs&ab_channel=sp0nplays",
+    "percentToQualify": "58",
+    "password": "-",
+    "records": [
+        {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=B9jVy0R9gCI&ab_channel=Faye",
+            "percent": 100
+        },
+              {
+            "user": "Munchie995",
+            "link": "https://www.youtube.com/watch?v=y72wAUU56vc&ab_channel=Munchie",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=46VYVLEC2kM&ab_channel=duck",
+            "percent": 100
+        },
+                          {
+            "user": "loovigmd",
+            "link": "https://medal.tv/games/roblox/clips/jR3AvbiK8dxjVQt5X?invite=cr-MSxBbHYsMjQxMjUxNjQ4LA",
+            "percent": 100
+        }
+    ]
+}
