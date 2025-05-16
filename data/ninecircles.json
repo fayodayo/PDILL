@@ -1,0 +1,17 @@
+{
+    "id": 783327,
+    "name": "Nine Circles",
+    "author": "Gandstar",
+    "creators": [""],
+    "verifier": "sp0nplays",
+    "verification": "https://www.youtube.com/watch?v=lqtb_sWfLEE&ab_channel=sp0nplays",
+    "percentToQualify": "61",
+    "password": "-",
+    "records": [
+                      {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=yCJsFKkXQB4&t=37s",
+            "percent": 100
+        }
+    ]
+}
