@@ -1,0 +1,32 @@
+{
+    "id": 382955,
+    "name": "Eternal Proposition",
+    "author": "Sebastoslafrite",
+    "creators": [""],
+    "verifier": "sp0nplays",
+    "verification": "https://www.youtube.com/watch?v=ExbwBjvb4_I&ab_channel=sp0nplays",
+    "percentToQualify": "58",
+    "password": "-",
+    "records": [
+        {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=akT4rEYgYUA&ab_channel=Faye",
+            "percent": 100
+        },
+              {
+            "user": "Leafdev",
+            "link": "https://www.youtube.com/watch?v=xFR-ro1FM5Q&ab_channel=LeafdevTheBOBBY",
+            "percent": 100
+        },
+                    {
+            "user": "loovigmd",
+            "link": "https://medal.tv/games/roblox/clips/jmUfdr62etgTQKOxG?invite=cr-MSxWTUgsMjQxMjUxNjQ4LA",
+            "percent": 100
+        },
+                          {
+            "user": "JoaqFirr",
+            "link": "https://www.youtube.com/watch?v=D-OvV0bcmao&ab_channel=Joakofirenze",
+            "percent": 100
+        }
+    ]
+}
