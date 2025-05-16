@@ -1,0 +1,27 @@
+{
+    "id": 554338,
+    "name": "Monochrome Color",
+    "author": "nhan111bon",
+    "creators": [""],
+    "verifier": "fayodayo",
+    "verification": "https://youtu.be/nk5pCqoo25k",
+    "percentToQualify": "62",
+    "password": "-",
+    "records": [
+        {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=KuDZtQXm6F0&ab_channel=duck",
+            "percent": 100
+        },
+                    {
+            "user": "CrEf85",
+            "link": "https://www.youtube.com/watch?v=gme9Z7qFMLk&ab_channel=PDDemonlistCreator",
+            "percent": 100
+        },
+                    {
+            "user": "Sapulima",
+            "link": "https://www.youtube.com/watch?v=GZAXmuWEqz4&ab_channel=Sapulima",
+            "percent": 100
+        }
+    ]
+}
