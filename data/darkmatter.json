@@ -1,0 +1,17 @@
+{
+    "id": 1013864,
+    "name": "Dark Matter",
+    "author": "glazedx",
+    "creators": [""],
+    "verifier": "sp0nplays",
+    "verification": "https://www.youtube.com/watch?v=4V89gUaK4mU&ab_channel=sp0nplays",
+    "percentToQualify": "52",
+    "password": "-",
+    "records": [
+        {
+            "user": "SGB1004",
+            "link": "https://www.youtube.com/watch?v=jJi3McrhVx4&ab_channel=SGB1004",
+            "percent": 100
+        }
+    ]
+}
