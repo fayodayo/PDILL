@@ -1,0 +1,17 @@
+{
+    "id": 230145,
+    "name": "E",
+    "author": "Simon",
+    "creators": [""],
+    "verifier": "Simon",
+    "verification": "https://www.youtube.com/watch?v=c5grfl_qWHI&ab_channel=SimonCL",
+    "percentToQualify": "70",
+    "password": "-",
+    "records": [
+                      {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=7_oDGnkeoD0&ab_channel=Faye",
+            "percent": 100
+        }
+    ]
+}
