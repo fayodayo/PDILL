@@ -51,7 +51,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
+                            <div class="type-title-sm">Level key</div>
                             <p>{{ level.key || '' }}</p>
                         </li>
                     </ul>
