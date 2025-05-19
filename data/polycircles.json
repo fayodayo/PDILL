@@ -1,0 +1,47 @@
+{
+    "id": MAIN LEVEL,
+    "name": "Poly Circles",
+    "author": "beefchip",
+    "creators": [],
+    "verifier": "Phoom Gaming",
+    "verification": "https://www.youtube.com/watch?v=inMm4B32Dkw&ab_channel=Phoomgaming",
+    "percentToQualify": "62",
+    "password": "-",
+    "records": [
+        {
+            "user": "sp0nplays",
+            "link": "https://www.youtube.com/watch?v=R7Zx62RTXik&ab_channel=sp0nplays",
+            "percent": 100
+        },
+                    {
+            "user": "Partition",
+            "link": "https://www.youtube.com/watch?v=3-3eANQlKoQ&t=2791s&ab_channel=PartitionZion",
+            "percent": 100
+        },
+              {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=E7gV58OC1tU",
+            "percent": 100
+        },
+                    {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=LtV48g5qR2E&ab_channel=Faye",
+            "percent": 100
+        },
+                    {
+            "user": "lily",
+            "link": "https://www.youtube.com/watch?v=pCA4rxOSpjc&ab_channel=lily~",
+            "percent": 100
+        },
+                {
+            "user": "crowunderscore",
+            "link": "https://www.youtube.com/watch?v=kNHGK5L-Jy0&ab_channel=crowunderscore",
+            "percent": 98
+        },
+              {
+            "user": "exhol",
+            "link": "https://www.youtube.com/watch?v=ewZ3Fmv8Dy0&ab_channel=Exhol",
+            "percent": 65
+        }
+    ]
+}
