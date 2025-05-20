@@ -1,0 +1,62 @@
+{
+    "id": "MAIN LEVEL",
+    "name": "Checkmate",
+    "author": "beefchip",
+    "creators": [],
+    "verifier": "AsherDev",
+    "verification": "https://www.youtube.com/watch?v=hd4ju9z2wY8&ab_channel=AsherDev",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=QpEWIJ-zqfM",
+            "percent": 100
+        },
+                          {
+            "user": "Angryface",
+            "link": "https://www.youtube.com/watch?v=vQVIpkKInRE&ab_channel=AngryFace",
+            "percent": 100
+        },
+                          {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=943CguLLaus&ab_channel=Faye",
+            "percent": 100
+        },
+                {
+            "user": "ryanbro_hi",
+            "link": "https://www.tiktok.com/@ryanbro_hi/video/7456092070462229793",
+            "percent": 100
+        },
+              {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7459125114181913888",
+            "percent": 100
+        },
+                    {
+            "user": "Luca",
+            "link": "https://www.tiktok.com/@gegenwintrader/video/7470532130997554454?_r=1&_t=ZN-8tr7IBkZKQI",
+            "percent": 100
+        },
+              {
+            "user": "vVallixx",
+            "link": "https://www.youtube.com/watch?v=p3Dm_XHIdWY&ab_channel=vVallixx",
+            "percent": 100
+        },
+              {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=nN6tw4oWasQ&ab_channel=MiloPD",
+            "percent": 100
+        },
+                    {
+            "user": "KasiaUwU",
+            "link": "https://www.youtube.com/watch?v=qpORvW54c3A&ab_channel=kasia",
+            "percent": 100
+        },
+              {
+            "user": "Miserbiry",
+            "link": "https://www.youtube.com/watch?v=J4G3wvxuzSg&ab_channel=Miserbiry",
+            "percent": 100
+        }
+    ]
+}
