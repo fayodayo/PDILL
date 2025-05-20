@@ -1,0 +1,67 @@
+{
+    "id": "MAIN LEVEL",
+    "name": "Metropolis V2",
+    "author": "beefchip",
+    "creators": [],
+    "verifier": "Aciditzen",
+    "verification": "https://www.youtube.com/watch?v=ejcNWaMDVTY&ab_channel=NM32",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                          {
+            "user": "sp0nplays",
+            "link": "https://www.youtube.com/watch?v=hWvnkeQwCJk&ab_channel=sp0nplays",
+            "percent": 100
+        },
+                    {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=jt9MMb5YTb4&ab_channel=SimonCL",
+            "percent": 100
+        },
+      {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=2entVIKiiK4&ab_channel=Squeeg",
+            "percent": 100
+        },
+                          {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=943CguLLaus&ab_channel=Faye",
+            "percent": 100
+        },
+                    {
+            "user": "Ghazt",
+            "link": "https://www.youtube.com/watch?v=ZNyOcdEIy3s&ab_channel=GhaztGD",
+            "percent": 100
+        },
+                    {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7456771146898296096",
+            "percent": 100
+        },
+                {
+            "user": "Thr4x",
+            "link": "https://medal.tv/games/roblox/clips/jH8QQyKg95lcVkX7Y?invite=cr-MSw2VDgsMjkxMTI2MzIxLA",
+            "percent": 100
+        },
+              {
+            "user": "B4COIR",
+            "link": "https://www.youtube.com/watch?v=ineo6Z5r0Ig&ab_channel=B4COIR%5BPD%5D",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=e1nu2t0SzoQ&ab_channel=duck",
+            "percent": 100
+        },
+              {
+            "user": "vVallixx",
+            "link": "https://www.youtube.com/watch?v=V5A7J1h2fg0&ab_channel=vVallixx",
+            "percent": 100
+        },
+              {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=lIgzLdVG4S0&ab_channel=MiloPD",
+            "percent": 100
+        }
+    ]
+}
