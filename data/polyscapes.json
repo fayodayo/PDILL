@@ -1,0 +1,82 @@
+{
+    "id": 825519,
+    "name": "Polyscapes",
+    "author": "MythzGMD",
+    "creators": [],
+    "verifier": "MythzGMD",
+    "verification": "https://www.youtube.com/watch?v=qu99XaKgSMY&ab_channel=VantGD",
+    "percentToQualify": "63",
+    "password": "-",
+    "records": [
+        {
+            "user": "Angryface",
+            "link": "https://www.youtube.com/watch?v=7TNprQTBtaY&ab_channel=AngryFace",
+            "percent": 100
+        },
+                    {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=943CguLLaus&ab_channel=Faye",
+            "percent": 100
+        },
+              {
+            "user": "MythzGMD",
+            "link": "https://www.youtube.com/watch?v=CtuqFJj-k0o&ab_channel=MythzGMD",
+            "percent": 100
+        },
+                    {
+            "user": "GrandTCC",
+            "link": "https://www.youtube.com/watch?v=l_3invEc2Dg&ab_channel=GrandTCC",
+            "percent": 100
+        },
+                    {
+            "user": "duskerhu",
+            "link": "https://www.youtube.com/watch?v=S-PkahnM72s&ab_channel=d%C3%BCsker",
+            "percent": 100
+        },
+                {
+            "user": "Flame",
+            "link": "https://www.youtube.com/watch?v=_SCstQP_DNc&ab_channel=Flame",
+            "percent": 100
+        },
+              {
+            "user": "Sapulima",
+            "link": "https://www.youtube.com/watch?v=75gBKEWcIhI&ab_channel=Sapulima",
+            "percent": 100
+        },
+              {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=ScdSbxHxWTY",
+            "percent": 100
+        },
+              {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=Df4VxQ7HubM&ab_channel=duck",
+            "percent": 100
+        },
+              {
+            "user": "JoaqFirr",
+            "link": "https://www.youtube.com/watch?v=3sjGvGEWMl0&ab_channel=Joakofirenze",
+            "percent": 100
+        },
+                    {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7490966042253053206",
+            "percent": 100
+        },
+              {
+            "user": "OrnpinGD",
+            "link": "https://www.youtube.com/watch?v=r_xFQIofHQs&ab_channel=OrnpinGD",
+            "percent": 100
+        },
+                    {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=3tEOT29O2MQ&ab_channel=MiloPD",
+            "percent": 100
+        },
+                          {
+            "user": "FHJordan",
+            "link": "https://www.youtube.com/watch?v=k4-2z3ud6qk&ab_channel=FHJordan",
+            "percent": 70
+        }
+    ]
+}
