@@ -1,0 +1,17 @@
+{
+    "id": 925374,
+    "name": "Lieutenant",
+    "author": "Aquanox",
+    "creators": [],
+    "verifier": "fayodayo",
+    "verification": "https://www.youtube.com/watch?v=G0XhK8OL7Us&ab_channel=Faye",
+    "percentToQualify": "54",
+    "password": "-",
+    "records": [
+                {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=ych-nUWXUzc&ab_channel=MiloPD",
+            "percent": 100
+        }
+    ]
+}
