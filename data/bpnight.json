@@ -1,0 +1,32 @@
+{
+    "id": 807624,
+    "name": "BP Night",
+    "author": "william nobre",
+    "creators": [],
+    "verifier": "Aciditzen",
+    "verification": "-",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=pCUJkG7GGDs&ab_channel=Faye",
+            "percent": 100
+        },
+                    {
+            "user": "KasiaUwU",
+            "link": "https://www.youtube.com/watch?v=Q-Sk0ROcdjI&ab_channel=kasia",
+            "percent": 100
+        },
+              {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=PGQIFBGbVJI&ab_channel=MiloPD",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=VKYiX9U-M2A&ab_channel=duck",
+            "percent": 100
+        }
+    ]
+}
