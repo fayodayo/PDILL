@@ -1,0 +1,22 @@
+{
+    "id": 757137,
+    "name": "Speed of Light",
+    "author": "Thiago074",
+    "creators": [],
+    "verifier": "Leofonck",
+    "verification": "-",
+    "percentToQualify": "65",
+    "password": "-",
+    "records": [
+        {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=hcwvph32ymA",
+            "percent": 100
+        },
+              {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=EwUxC2BeoZw&ab_channel=MiloPD",
+            "percent": 100
+        }
+    ]
+}
