@@ -1,0 +1,22 @@
+{
+    "id": 801548,
+    "name": "Out breaker",
+    "author": "B4COIR",
+    "creators": [],
+    "verifier": "B4COIR",
+    "verification": "https://www.youtube.com/watch?v=7ECC-6fuLzQ&ab_channel=B4COIR%5BPD%5D",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=M_8Quvu9I4k&ab_channel=MiloPD",
+            "percent": 100
+        },
+              {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=VyLwhCVgqnw&ab_channel=Faye",
+            "percent": 100
+        }
+    ]
+}
