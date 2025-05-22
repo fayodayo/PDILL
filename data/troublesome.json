@@ -1,0 +1,47 @@
+{
+    "id": "774172",
+    "name": "Troublesome",
+    "author": "Angryface",
+    "creators": [],
+    "verifier": "Angryface",
+    "verification": "https://www.youtube.com/watch?v=uGt3E6sXCVU&ab_channel=AngryFace",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=xm0LcjgnRhg",
+            "percent": 100
+        },
+                    {
+            "user": "Ghazt",
+            "link": "https://www.youtube.com/watch?v=-SGDtjnbi2c&ab_channel=GhaztGD",
+            "percent": 100
+        },
+                    {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=pCUJkG7GGDs&ab_channel=Faye",
+            "percent": 100
+        },
+              {
+            "user": "FHJordan",
+            "link": "https://www.youtube.com/watch?v=k4-2z3ud6qk&ab_channel=FHJordan",
+            "percent": 100
+        },
+              {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7456802404999253280",
+            "percent": 100
+        },
+                    {
+            "user": "Munchie995",
+            "link": "https://www.youtube.com/watch?v=4R3Z0BmHwJs&ab_channel=Munchie",
+            "percent": 100
+        },
+              {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=q2K4NZlYsno&t=2s&ab_channel=MiloPD",
+            "percent": 100
+        }
+    ]
+}
