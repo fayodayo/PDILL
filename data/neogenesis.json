@@ -1,0 +1,37 @@
+{
+    "id": 588957,
+    "name": "Neogenesis",
+    "author": "joshuan433",
+    "creators": [],
+    "verifier": "Leofonck",
+    "verification": "-",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "KasiaUwU",
+            "link": "https://www.youtube.com/watch?v=4jnZvGuHYZQ&ab_channel=kasia",
+            "percent": 100
+        },
+        {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=uY1PZ1e1hRU&ab_channel=MiloPD",
+            "percent": 100
+        },
+                    {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7476774671053032726",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=VKYiX9U-M2A&ab_channel=duck",
+            "percent": 100
+        },
+                          {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=VyLwhCVgqnw&ab_channel=Faye",
+            "percent": 100
+        }
+    ]
+}
