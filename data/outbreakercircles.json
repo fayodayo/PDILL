@@ -1,0 +1,22 @@
+{
+    "id": 1012864,
+    "name": "Outbreaker Circles",
+    "author": "Omikron",
+    "creators": [],
+    "verifier": "Omikron",
+    "verification": "https://www.youtube.com/watch?v=vGvziJvsRC0&ab_channel=OmikronPD",
+    "percentToQualify": "56",
+    "password": "-",
+    "records": [
+        {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=VyLwhCVgqnw&ab_channel=Faye",
+            "percent": 100
+        },
+              {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=37R6su1zmyI&ab_channel=MiloPD",
+            "percent": 100
+        }
+    ]
+}
