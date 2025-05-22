@@ -1,0 +1,22 @@
+{
+    "id": 753667,
+    "name": "Surge",
+    "author": "Craftee_Biskit41",
+    "creators": [],
+    "verifier": "Leofonck",
+    "verification": "-",
+    "percentToQualify": "78",
+    "password": "-",
+    "records": [
+        {
+            "user": "KasiaUwU",
+            "link": "https://www.youtube.com/watch?v=0jtPeS6mOEk&ab_channel=kasia",
+            "percent": 100
+        },
+              {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=VyLwhCVgqnw&ab_channel=Faye",
+            "percent": 100
+        }
+    ]
+}
