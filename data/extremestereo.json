@@ -1,0 +1,22 @@
+{
+    "id": 972467,
+    "name": "Extreme Stereo",
+    "author": "Aquanox",
+    "creators": [],
+    "verifier": "Aquanox",
+    "verification": "https://www.youtube.com/watch?v=2VcXCbL-AZw&ab_channel=TwoTime%28Blossom%29",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "B4COIR",
+            "link": "https://www.youtube.com/watch?v=Bcyt05QBe24&ab_channel=B4COIR%5BPD%5D",
+            "percent": 100
+        },
+              {
+            "user": "deacnome",
+            "link": "https://www.youtube.com/watch?v=USkKVS-iPRA&ab_channel=deacnome%28gd%29",
+            "percent": 100
+        }
+    ]
+}
