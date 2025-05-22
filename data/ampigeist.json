@@ -1,0 +1,32 @@
+{
+    "id": 1007380,
+    "name": "AmpiGeist",
+    "author": "Aquanox",
+    "creators": [],
+    "verifier": "Aquanox",
+    "verification": "https://www.youtube.com/watch?v=iqdnAZqg0jY&ab_channel=TwoTime%28Blossom%29",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "B4COIR",
+            "link": "https://www.youtube.com/watch?v=V-0EqeVczMQ&ab_channel=B4COIR%5BPD%5D",
+            "percent": 100
+        },
+                                {
+            "user": "KasiaUwU",
+            "link": "https://www.youtube.com/watch?v=klrQw0ejBJ4&ab_channel=kasia",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=VKYiX9U-M2A&ab_channel=duck",
+            "percent": 100
+        },
+                          {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=VyLwhCVgqnw&ab_channel=Faye",
+            "percent": 100
+        }
+    ]
+}
