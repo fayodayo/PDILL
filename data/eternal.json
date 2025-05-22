@@ -1,0 +1,32 @@
+{
+    "id": 1079569,
+    "name": "Eternal",
+    "author": "CrEf85",
+    "creators": [],
+    "verifier": "CrEf85",
+    "verification": "https://www.youtube.com/watch?v=XclMecz4m94&ab_channel=PDDemonlistCreator",
+    "percentToQualify": "60",
+    "password": "-",
+    "records": [
+        {
+            "user": "JoaqFirr",
+            "link": "https://www.youtube.com/watch?v=DtXLHPSzYSE&ab_channel=Joakofirenze",
+            "percent": 100
+        },
+              {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=VyLwhCVgqnw&ab_channel=Faye",
+            "percent": 100
+        },
+                    {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=_7yCFM_dfgw&ab_channel=MiloPD",
+            "percent": 100
+        },
+                    {
+            "user": "SoapyPD",
+            "link": "https://medal.tv/games/roblox/clips/jXE0eQ2xI1wbXjJKq",
+            "percent": 100
+        }
+    ]
+}
