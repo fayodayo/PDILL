@@ -1,0 +1,17 @@
+{
+    "id": 0,
+    "name": "Tecno",
+    "author": "UFO_above",
+    "creators": [],
+    "verifier": "duck",
+    "verification": "https://www.youtube.com/watch?v=CloNPPttMWQ&ab_channel=duck",
+    "percentToQualify": "66",
+    "password": "-",
+    "records": [
+                      {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=6hmpwR-X4NM&ab_channel=MiloPD",
+            "percent": 100
+        }
+    ]
+}
