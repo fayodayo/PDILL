@@ -1,0 +1,32 @@
+{
+    "id": 827385,
+    "name": "Shattered Surface",
+    "author": "joshuan433",
+    "creators": [],
+    "verifier": "GameUK",
+    "verification": "https://www.youtube.com/watch?v=QXby300sJH4&ab_channel=Game",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=pZJSteWrzdk&ab_channel=Faye",
+            "percent": 100
+        },
+                    {
+            "user": "B4COIR",
+            "link": "https://www.youtube.com/watch?v=1shYdV6HR5s&ab_channel=B4COIR%5BPD%5D",
+            "percent": 100
+        },
+              {
+            "user": "MiloPD",
+            "link": "https://www.youtube.com/watch?v=KG-Nf90-dcY&ab_channel=MiloPD",
+            "percent": 100
+        },
+                    {
+            "user": "KasiaUwU",
+            "link": "https://www.youtube.com/watch?v=bPvaiWepUAA&ab_channel=kasia",
+            "percent": 100
+        }
+    ]
+}
