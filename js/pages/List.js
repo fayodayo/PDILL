@@ -120,6 +120,11 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we no longer accept records for that level unless it was submitted before it fell off
                     </p>
+                    <p>
+                    </p>
+                    <p>
+                        Special Thanks to ATOMIC and loovigmd <3
+                    </p>
                 </div>
             </div>
         </main>
