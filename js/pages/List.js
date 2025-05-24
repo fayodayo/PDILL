@@ -125,14 +125,6 @@ export default {
                     <p>
                     </p>
                     <p>
-                    </p>
-                    <p>
-                    </p>
-                    <p>
-                    </p>
-                    <p>
-                    </p>
-                    <p>
                         Special Thanks to ATOMIC and loovigmd <3
                     </p>
                 </div>
