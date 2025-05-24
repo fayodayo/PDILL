@@ -125,7 +125,7 @@ export default {
                     <p>
                     </p>
                     <p>
-                        Special thanks to ATOMIC and loovigmd <3
+                        Special thanks to ATOMIC and loovigmd
                     </p>
                 </div>
             </div>
