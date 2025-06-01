@@ -47,6 +47,11 @@
             "user": "duck",
             "link": "https://www.youtube.com/watch?v=VKYiX9U-M2A&ab_channel=duck",
             "percent": 100
+        },
+                      {
+            "user": "Angryface",
+            "link": "https://youtu.be/9XiJvlcq3fg",
+            "percent": 100
         }
     ]
 }
