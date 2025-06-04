@@ -3,11 +3,16 @@
     "name": "Neogenesis",
     "author": "joshuan433",
     "creators": [],
-    "verifier": "Leofonck",
-    "verification": "-",
+    "verifier": "Rein",
+    "verification": "https://youtu.be/iFXnV4_zAcQ?si=MupZLCTglQOCd_v9",
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                {                                                {
+            "user": "Leofonck",
+            "link": "-",
+            "percent": 100
+        },
                     {
             "user": "KasiaUwU",
             "link": "https://www.youtube.com/watch?v=4jnZvGuHYZQ&ab_channel=kasia",
