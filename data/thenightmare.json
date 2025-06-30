@@ -99,7 +99,7 @@
             "percent": 100
         },
               {
-            "user": "Miserbiy",
+            "user": "Miserbiry",
             "link": "https://www.youtube.com/watch?v=7JIGiS1aW4M&ab_channel=Miserbiry",
             "percent": 100
         },
@@ -130,6 +130,11 @@
         },
                                       {
             "user": "Hayden Babayden",
+            "link": "https://www.youtube.com/watch?v=-L5MLNqgnH4&ab_channel=Cryptymite-GDash",
+            "percent": 100
+        },
+                                      {
+            "user": "Miserbiry",
             "link": "https://www.youtube.com/watch?v=-L5MLNqgnH4&ab_channel=Cryptymite-GDash",
             "percent": 100
         }
