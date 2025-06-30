@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
-]
+                        {
+            "user": "MiloPD",
+            "link": "https://youtu.be/PYkp-qx7CW0",
+            "percent": 100
+         }
+    ]   
 }
