@@ -5,13 +5,8 @@
     "creators": [],
     "verifier": "duck",
     "verification": "https://youtu.be/EqRDu96e8i4",
-    "percentToQualify": "63",
+    "percentToQualify": "100",
     "password": "-",
     "records": [
-                                      {
-            "user": "sp0nplays",
-            "link": "https://www.youtube.com/watch?v=mv1j2L7j_xk",
-            "percent": 100
-        }
     ]
 }
