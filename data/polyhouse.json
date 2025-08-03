@@ -8,25 +8,5 @@
     "percentToQualify": "58",
     "password": "-",
     "records": [
-        {
-            "user": "fayodayo",
-            "link": "https://www.youtube.com/watch?v=ra6nQacAE-c&ab_channel=Faye",
-            "percent": 100
-        },
-                    {
-            "user": "duskerhu",
-            "link": "https://www.youtube.com/watch?v=ts5Ii2IyclI&ab_channel=d%C3%BCsker",
-            "percent": 100
-        },
-              {
-            "user": "Munchie995",
-            "link": "https://www.youtube.com/watch?v=1kWRcGxgX2c&ab_channel=Munchie",
-            "percent": 100
-        },
-                    {
-            "user": "duck",
-            "link": "https://www.youtube.com/watch?v=Q8qwY19Ao2o&ab_channel=duck",
-            "percent": 100
-        }
     ]
 }
