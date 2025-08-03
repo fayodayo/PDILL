@@ -118,7 +118,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we no longer accept records for that level unless it was submitted before it fell off
+                        (BM) = BENCHMARK
                     </p>
                     <p>
                     </p>
